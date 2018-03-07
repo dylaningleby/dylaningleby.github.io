@@ -1556,7 +1556,7 @@
 	}
 
 	body {
-		-ms-overflow-style: scrollbar;
+		-ms-overflow-style: hidden;
 	}
 
 	@media screen and (max-width: 480px) {
@@ -1733,7 +1733,7 @@
 			display: block;
 			line-height: 1.75em;
 			padding: 1em 1.5em;
-			overflow-x: auto;
+			overflow-x: hidden;
 		}
 
 	hr {
@@ -2415,8 +2415,8 @@
 /* Table */
 
 	.table-wrapper {
-		-webkit-overflow-scrolling: touch;
-		overflow-x: auto;
+		-webkit-overflow-scrolling: hidden;
+		overflow-x: hidden;
 	}
 
 	table {
@@ -3625,6 +3625,7 @@
 
 		body.landing {
 			padding-top: 0;
+			overflow: hidden;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -3770,13 +3771,13 @@
 		-webkit-transition: -webkit-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
-		-webkit-overflow-scrolling: touch;
+		-webkit-overflow-scrolling: hidden;
 		background: #BB0000;
 		box-shadow: none;
 		color: #fff;
 		height: 100%;
 		max-width: 80%;
-		overflow-y: auto;
+		overflow-y: hidden;
 		padding: 3em 2em;
 		position: fixed;
 		right: 0;
@@ -3887,7 +3888,7 @@
 /* Banner */
 
 	#banner {
-		padding: 8em 0 6em 0;
+		padding: 0em 0 0em 0;
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
