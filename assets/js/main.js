@@ -56,3 +56,8 @@
 	});
 
 })(jQuery);
+
+function hideunhide() {
+  document.getElementById("thankyou_message").style.display = "none";
+    }
+}
