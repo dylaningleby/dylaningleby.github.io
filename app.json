@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "maintenanceMode": false,
+  "gameFeed": [ ... ],
+  "featureToggles": {
+    "darkMode": true,
+    "specialEvent": false
+  }
+}
