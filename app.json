@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "maintenanceMode": false,
-  "gameFeed": [ ,
+  "gameFeed": [
   {
     "away_team": {
       "color_primary": "#faaf3c",
