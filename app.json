@@ -114,6 +114,20 @@
       "name": "ESPN",
       "url": "https://www.espn.com.au/nbl"
     },
+            "secondary_broadcaster": {
+                "id": "dc7b3a12-f84c-4e33-97d3-cf73d43f000f",
+                "url": "https://10.com.au/",
+                "name": "10",
+                "logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png",
+                "dark_screen_logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png",
+                "light_screen_logo": {
+                    "filename_disk": "3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+                },
+                "dark_screen_logo": {
+                    "filename_disk": "3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+                },
+                "light_screen_logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+            },
     "round": "19",
     "season": {
       "competition": {
@@ -252,6 +266,20 @@
       "name": "ESPN",
       "url": "https://www.espn.com.au/nbl"
     },
+            "secondary_broadcaster": {
+                "id": "dc7b3a12-f84c-4e33-97d3-cf73d43f000f",
+                "url": "https://10.com.au/",
+                "name": "10",
+                "logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png",
+                "dark_screen_logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png",
+                "light_screen_logo": {
+                    "filename_disk": "3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+                },
+                "dark_screen_logo": {
+                    "filename_disk": "3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+                },
+                "light_screen_logo_url": "https://nxs.nbl.com.au/assets/3b26004e-38d9-4fc6-aa7b-19c8497cc5fa.png"
+            },
     "round": "20",
     "season": {
       "competition": {
