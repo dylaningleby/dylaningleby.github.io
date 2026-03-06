@@ -2,7 +2,6 @@
   "version": "1.0.0",
   "maintenanceMode": false,
   "gameFeed": [ {
-    "away_score": "88",
     "away_team": {
       "color_primary": "#000526",
       "external_id": "bf6cf4f0-410c-11f0-8107-1b3c55488bbb",
@@ -14,113 +13,38 @@
       "team_nickname": "United",
       "ticket_url": "https://premier.ticketek.com.au/shows/show.aspx?sh=UNITED26"
     },
-    "date_updated": "2025-09-22T11:12:27.000Z",
-    "external_id": "b19d49b0-4bef-11f0-9ee4-e7c335595f42",
-    "external_media_id": "61386747",
-    "home_score": "84",
+    "date_updated": "2025-09-22T11:12:34.000Z",
+    "external_id": "b2a91b89-4bef-11f0-9702-0f125a33c37a",
     "home_team": {
-      "color_primary": "#faaf3c",
-      "external_id": "bfab212e-410c-11f0-b95c-1b3c55488bbb",
-      "external_team_logo": "https://images.dc.prod.cloud.atriumsports.com/b1sjj/f921dab7d97b4402ae24678377b736b7?size=800&format=webp",
-      "id": "0602b1bc-8dfb-488c-ac11-7895de1a7556",
-      "name": "Tasmania JackJumpers",
-      "team_code": "TAS",
-      "team_logo": "https://cdn.nbl.com.au/app_assets/TAS.png",
-      "team_nickname": "JackJumpers",
-      "ticket_url": "https://premier.ticketek.com.au/shows/show.aspx?sh=JACKJUMP26"
+      "color_primary": "#021d59",
+      "external_id": "bf4cfb88-410c-11f0-82f6-1b3c55488bbb",
+      "external_team_logo": "https://images.dc.prod.cloud.atriumsports.com/b1sjj/3e4bf5b806224c55b6bf4fc3ffb448c3?size=800&format=webp",
+      "id": "6bf2a6e3-2626-491d-962b-48805205c06e",
+      "name": "Cairns Taipans",
+      "team_code": "CNS",
+      "team_logo": "https://cdn.nbl.com.au/app_assets/CNS.png",
+      "team_nickname": "Taipans",
+      "ticket_url": "https://tickets.taipans.com/event/2025-26-season-membership-r07ny9"
     },
-    "id": "0aad2d31-a3ba-48f7-b3d5-f5c7893bc2f6",
-    "match_slug": "tasmania-jackjumpers-v-melbourne-united-18-09-2025",
-    "match_status": "complete",
-    "match_title": "Tasmania JackJumpers v Melbourne United 18-09-2025",
+    "id": "b79ea90e-39ad-430c-af8c-950e103437c1",
+    "match_slug": "cairns-taipans-v-melbourne-united-12-02-2026",
+    "match_status": "scheduled",
+    "match_title": "Cairns Taipans v Melbourne United 12-02-2026",
     "match_type": "regular",
-    "play_by_play": "b7ff425b-2a72-4adb-8594-ffb1dc7f43db",
     "primary_broadcaster": {
       "dark_screen_logo": {
-        "filename_disk": "18bb60fe-31dd-4e91-a9da-b85b367d29fc.png"
+        "filename_disk": "34862473-c802-418c-9b4d-98c8c36cba09.png"
       },
-      "dark_screen_logo_url": "https://nxs.nbl.com.au/assets/18bb60fe-31dd-4e91-a9da-b85b367d29fc.png?q=1",
-      "id": "e853c657-fb0f-49b1-93db-911135380977",
+      "dark_screen_logo_url": "https://nxs.nbl.com.au/assets/a823c6a9-a362-4c3d-8092-c9883730ec3a.png",
+      "id": "618f4af2-0b8f-4934-a6c7-ee1ab021db5b",
       "light_screen_logo": {
-        "filename_disk": "c26bd679-cfeb-4339-8e0f-3a499fefb089.png"
+        "filename_disk": "74cf1bb4-49d3-4047-87ef-92cc0dac05d3.png"
       },
-      "logo_url": "https://nxs.nbl.com.au/assets/c26bd679-cfeb-4339-8e0f-3a499fefb089.png?q=2",
-      "name": "ESPN on Disney",
-      "url": "https://www.disneyplus.com/"
+      "logo_url": "https://nxs.nbl.com.au/assets/c26bd679-cfeb-4339-8e0f-3a499fefb089.png?q=1",
+      "name": "ESPN",
+      "url": "https://www.espn.com.au/nbl"
     },
-    "round": "1",
-    "season": {
-      "competition": {
-        "league": {
-          "name": "NBL Synergy",
-          "organisation": {
-            "shortcode": "nbl"
-          }
-        },
-      },
-      "gender": "MALE",
-      "season_type": "regular",
-      "year": "2025"
-    },
-    "start_time": "2025-09-18T09:30:00",
-    "start_time_datetime": "2026-09-18T09:30:00",
-    "status": "CONFIRMED",
-    "venue": {
-      "external_id": "b4d158f5-410c-11f0-8a82-236c30eb17ba",
-      "id": "fd42c9a7-9246-48f7-b59f-05bee661573e",
-      "name": "MyState Bank Arena",
-      "timezone": "Australia/Hobart",
-      "venue_code": "MBA"
-    }
-  },
-  {
-    "away_score": "104",
-    "away_team": {
-      "color_primary": "#164ca8",
-      "external_id": "bf3d7137-410c-11f0-8229-1b3c55488bbb",
-      "external_team_logo": "https://images.dc.prod.cloud.atriumsports.com/b1sjj/33f173b6b14a4f9f97093495704d489a?size=800&format=webp",
-      "id": "f8185bc5-2674-4293-a2a7-aeb8c7549b30",
-      "name": "Brisbane Bullets",
-      "team_code": "BRI",
-      "team_logo": "https://cdn.nbl.com.au/app_assets/BNE.png",
-      "team_nickname": "Bullets",
-      "ticket_url": "https://brisbanebullets.memberlink.net.au/memberhome"
-    },
-    "date_updated": "2025-09-22T11:12:28.000Z",
-    "external_id": "b1c52730-4bef-11f0-926a-2d91e5671953",
-    "external_media_id": "61386749",
-    "home_score": "95",
-    "home_team": {
-      "color_primary": "#45b5e3",
-      "external_id": "bedd705b-410c-11f0-8d69-1b3c55488bbb",
-      "external_team_logo": "https://images.dc.prod.cloud.atriumsports.com/b1sjj/2c91426499ff49c6b608511aaa361752?size=800&format=webp",
-      "id": "bbae77db-317d-4c17-aa04-75d53d20ad15",
-      "name": "New Zealand Breakers",
-      "team_code": "NZL",
-      "team_logo": "https://images.dc.prod.cloud.atriumsports.com/b1sjj/bcbd4822cde14f55bd5c14484730b153",
-      "team_nickname": "Breakers",
-      "ticket_url": "https://am.ticketmaster.com/nzbreakers/"
-    },
-    "id": "b16fd2f4-60bb-430c-9ab5-7466ca4e5d87",
-    "match_slug": "new-zealand-breakers-v-brisbane-bullets-19-09-2025",
-    "match_status": "complete",
-    "match_title": "New Zealand Breakers v Brisbane Bullets 19-09-2025",
-    "match_type": "regular",
-    "play_by_play": "3e6d14b5-90b5-406a-aac5-c60191a2e4f3",
-    "primary_broadcaster": {
-      "dark_screen_logo": {
-        "filename_disk": "18bb60fe-31dd-4e91-a9da-b85b367d29fc.png"
-      },
-      "dark_screen_logo_url": "https://nxs.nbl.com.au/assets/18bb60fe-31dd-4e91-a9da-b85b367d29fc.png?q=1",
-      "id": "e853c657-fb0f-49b1-93db-911135380977",
-      "light_screen_logo": {
-        "filename_disk": "c26bd679-cfeb-4339-8e0f-3a499fefb089.png"
-      },
-      "logo_url": "https://nxs.nbl.com.au/assets/c26bd679-cfeb-4339-8e0f-3a499fefb089.png?q=2",
-      "name": "ESPN on Disney",
-      "url": "https://www.disneyplus.com/"
-    },
-    "round": "1",
+    "round": "21",
     "season": {
       "competition": {
         "league": {
@@ -136,14 +60,14 @@
       "season_type": "regular",
       "year": "2025"
     },
-    "start_time": "2025-09-19T07:30:00",
-    "start_time_datetime": "2026-09-19T07:30:00",
-    "status": "CONFIRMED",
+    "start_time": "2027-02-12T08:30:00",
+    "start_time_datetime": "2027-02-12T08:30:00",
+    "status": "SCHEDULED",
     "venue": {
-      "external_id": "b41e48a2-410c-11f0-89c6-236c30eb17ba",
-      "id": "60a904fe-6677-4b34-9f64-42c898ee6a66",
-      "name": "Spark Arena",
-      "timezone": "Pacific/Auckland"
+      "external_id": "b3cd76cd-410c-11f0-aa66-236c30eb17ba",
+      "id": "5278a23f-9b82-4703-ac51-79e64cc3c09d",
+      "name": "Cairns Convention Centre",
+      "timezone": "Australia/Brisbane"
     }
   } ],
   "featureToggles": {
